@@ -1,0 +1,13 @@
+{
+  "name": "novel-studio-chinese-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent Chinese visual novel planning prototype",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
